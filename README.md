@@ -18,7 +18,7 @@ In the cmd window, type in<br>
 ```python
 PATH_2\bin\protoc PATH_1\research\object_detection\protos\*.proto --python_out=.
 ```
-The extraction is succesful if there is no pointout in the cmd window.<br>
+The extraction is succesful if there is no printout in the cmd window.<br>
 5. Install tensorflow (cpu version)<br>
 ```python
 pip install tensorflow
